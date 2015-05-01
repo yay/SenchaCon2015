@@ -1,4 +1,4 @@
-# Interactive visual analytics using Sencha Charts
+## Interactive visual analytics using Sencha Charts
 
 To run the examples please use the following URL syntax:
 
